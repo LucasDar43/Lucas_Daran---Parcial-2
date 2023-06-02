@@ -48,7 +48,7 @@ namespace Lucas_Daran___Parcial_2
             else
             {
                 Console.WriteLine("Índice fuera de rango. No se puede obtener el elemento.");
-                return -1; // Valor sentinela para indicar un error
+                return -1;
             }
         }
 
